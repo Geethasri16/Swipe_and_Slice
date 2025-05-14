@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
 ```
-  git clone https://github.com/Geethasri16/swipe-and-slice.git
+  git clone https://github.com/Geethasri16/Swipe_and_Slice.git
 ```
 2. Navigate to the project directory:
 
