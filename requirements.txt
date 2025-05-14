@@ -1,0 +1,4 @@
+opencv-python==4.5.1.48
+mediapipe==0.8.7
+
+pip install -r requirements.txt
